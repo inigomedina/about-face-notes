@@ -126,6 +126,86 @@ It can be divided into 6 phases:
    6. support
 
 
+# Process steps
+
+Initiate  ->	Design	->	Build	->	Test	->	Ship
+	  		<-		<-
+
+---------------------------------------------------------------------
+## Research
+
+### Scope
+Define project goals & schedule: objectives, timelines, financial constraints, process, milestones
+
+### Audit
+Review existing work & product: business & marketing plans, branding strategy, market research, competitor, relevant technologies
+
+### Stakeholder Interviews
+Understand product vision & constraints: product vision, risk opportunities, constraints, logistics, users
+
+### User interviews & observations
+Understand user needs & behavior: users, potential users, behaviors attitudes, aptitudes, motivations, environments, tools, challenges
+
+Deliverable -> Statement of work, research findings
+Meetings and inverviews -> with stakeholders & users, setting capabilities & scope
+
+---------------------------------------------------------------------
+## Modeling
+
+### Personas
+User & customer archetypes: patterns in user & customer behaviors, attitudes, aptitudes, goals, environments, tools, challenges
+
+### Other Models
+Represent domain factors beyond individual users & customers: workflows among multiple people, environments, artifacts
+
+Deliverable -> Personas skeleton
+
+
+---------------------------------------------------------------------
+## Requirements Definition
+
+### Context scenarios
+Tell stories about ideal user experiences: how the product fits into the personas life & environment & helps them achieve their goals
+
+### Requirements
+Describe necessary capabilities of the product: functional & data needs, user mental models, design imperatives, product vision, business requirements, technology
+
+Deliverable -> User & Domain Analysis
+
+
+---------------------------------------------------------------------
+## Design Framework
+
+### Elements
+Define manifestations of information & functionality: information, functions, mechanisms, actions, domain, object models
+
+### Framework
+Design overal structure of user experience: object relationships, conceptual groupings, navigation sequencing, principles & patterns, flow, sketches, storyboards
+
+### Key Path & Validation Scenarios
+Describe how the persona interacts with the product: how the design fits into an ideal sequence of user behaviors, & accommodates a variety of likely conditions
+
+Deliverable -> Design vision
+
+
+---------------------------------------------------------------------
+## Design Refinement
+
+### Detailed design
+Refine & specify details: appearence, idioms, interface, widgets, behavior, information, visualization, brand, experience, language, storyboards
+
+Deliverable -> Form & behavior specification
+
+
+---------------------------------------------------------------------
+## Design Support
+
+### Design modification
+Accommodate new constraints & timeline: maintaining conceptual integrity of the design under changing technology constraints.
+
+Deliverable -> Form & Behavior specification
+
+
 
 
 
