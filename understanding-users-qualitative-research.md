@@ -61,3 +61,5 @@ Important information gathered on this kind of interviews:
 	  * Technical constraints and opportunities.
 	  * Business drivers.
 	  * Stakeholders' perceptions of the user.
+
+As a designer, your job is to develop a vision that the entire team believes in. Without taking the time to understand everyone's perspective, it's unlikely that they will feel that proposed solutions reflect their priorities. These people have the responsibility and authority to deliver the product to the real world. So, they have important knowdledge and opinions.
